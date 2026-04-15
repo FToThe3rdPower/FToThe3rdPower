@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FToThe3rdPower, Frank (Trey) Grijalva
-- 🌱 I’m currently an Experimental Physics MSc student at Uni Utrecht
-- 💡 I'm interested in research in High Energy Physics
+- 👋 Hi, I’m @FToThe3rdPower, Trey Grijalva
+- 🌱 I’m currently a PhD student at Univerza v Ljubljani - Fakulteta za Matematiko in Fiziko
+- 💡 I'm researching Photon Detectors at Institut Jožef Stefan "JSI" in Ljubljana
 - 📫 How to reach me: t.grijalva@cern.ch
 
 <!---
